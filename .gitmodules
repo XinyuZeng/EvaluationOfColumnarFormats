@@ -1,0 +1,16 @@
+[submodule "arrow-private"]
+	path = arrow-private
+	url = git@github.com:XinyuZeng/arrow-Public.git
+	branch = cleanup
+[submodule "orc"]
+	path = orc
+	url = git@github.com:XinyuZeng/orc.git
+	branch = cleanup
+[submodule "arrow-rs"]
+	path = arrow-rs
+	url = git@github.com:XinyuZeng/arrow-rs.git
+	branch = xinyu-dev
+[submodule "OpenFormat"]
+	path = OpenFormat
+	url = git@github.com:XinyuZeng/OpenFormat-Public.git
+	branch = main
