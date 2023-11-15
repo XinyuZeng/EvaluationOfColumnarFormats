@@ -27,4 +27,4 @@ arrow is built using cmake preset "openformat-release".
 
 Some utilities from arrow-rs need to be installed globally (i.e., add to PATH) to run the experiments. You can go to arrow-rs directory and run `cargo install --path parquet --features=cli` to install them.
 
-`OpenFormat` (which currently contains old code and to be updated soon) contains further instructions on how to run the workload and data generator, and how to reproduce the results.
+`OpenFormat` contains further instructions on how to run the workload and data generator, and how to reproduce the results.
